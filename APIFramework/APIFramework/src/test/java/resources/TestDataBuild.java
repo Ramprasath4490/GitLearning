@@ -16,7 +16,7 @@ public class TestDataBuild {
 		p.setAccuracy(50);
 		p.setAddress(address);
 		p.setLanguage(language);
-		p.setPhone_number("(+91) 983 893 3937");
+		p.setPhone_number("(+91) 9095518540");
 		p.setWebsite("https://rahulshettyacademy.com");
 		p.setName(name);
 		List<String> myList =new ArrayList<String>();
